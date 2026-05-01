@@ -62,3 +62,7 @@
 [Plateau: Implementation Planning]
    - Lr (Work Package)
 ```
+
+# A4 - Methodology Used
+
+<img width="734" height="530" alt="image" src="https://github.com/user-attachments/assets/f907a532-db89-4ab2-814f-add26f1365f3" />
