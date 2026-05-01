@@ -26,6 +26,11 @@
         |
         | Influence
         v
+[Plateau: Concept of Operations]
+   - L2-L3 (Representation)   «Logical Concept Viewpoint»
+        |
+        | Influence / Refines
+        v
 [Plateau: Stakeholder Requirements]
    - L2 (Requirement)
    - L3 (Requirement)
@@ -42,8 +47,8 @@
         | Realization
         v
 [Plateau: High-Level Design]
-   - P4 (Tech Function)
-   - L4→P4 (Realization)
+   - P4 (Technology Function)
+   - L4-P4 (Representation)   «Activity-to-Function Mapping»
         |
         | Realization
         v
